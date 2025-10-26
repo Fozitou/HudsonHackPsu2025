@@ -1,4 +1,4 @@
-# 🤖 [Project Name] — Autonomous Conversational Robotic Assistant
+# 🤖 Hudson — Autonomous Conversational Robotic Assistant
 
 > **HackPSU 2025 Submission**  
 > *Built for the future of embodied intelligence — where robots can see, listen, understand, and act.*
@@ -13,7 +13,7 @@
 
 ## 🌟 Overview
 
-**[Project Name]** is an **autonomous, conversational, and vision-enabled robotic assistant** designed to enhance elderly care and hospital support through AI-driven reasoning, speech, and perception.  
+**Hudson** is an **autonomous, conversational, and vision-enabled robotic assistant** designed to enhance elderly care and hospital support through AI-driven reasoning, speech, and perception.  
 
 By fusing **natural language understanding**, **computer vision**, and **real-world robotics**, our system demonstrates the next step in *embodied intelligence* — robots that **see, listen, understand, and act** to serve human needs.
 
@@ -26,26 +26,24 @@ By fusing **natural language understanding**, **computer vision**, and **real-wo
 - **Full-HD Camera** for live vision input and contextual object detection.  
 - **Microphone + Speaker** for seamless two-way audio communication.  
 - **Front-mounted Grabber Claw** for object manipulation and delivery.  
-- **Ultrasonic Distance Sensor** for navigation and obstacle avoidance.  
-- **Dual Controllers:**  
-  - 🟦 *Arduino UNO R3* for low-level control and actuation.  
-  - 🍓 *Raspberry Pi 3B+* for AI inference, data processing, and system coordination.
+- **Controllers:**  Arduino UNO R3* for low-level control and actuation.  
+
 
 ---
 
 ### 💻 Software Stack
-- **🧠 Gemini 2.5 Flash API** — Multimodal reasoning, NLU, and vision-based task planning.  
+- **🧠 Gemini 2.5 Flash API** — Multimodal reasoning and understanding
 - **🗣️ ElevenLabs API** — Realistic, emotionally expressive text-to-speech synthesis.  
-- **🎥 OpenCV + Gemini Vision API** — Real-time object segmentation, tracking, and scene understanding.  
+- **🎥 OpenCV + Gemini Vision API** —  object tracking, and scene understanding.  
 - **⚡ Custom Python ↔ Arduino Bridge** — Real-time synchronization between speech, vision, and motor control.
 
 ---
 
 ## 🤖 Capabilities
 
-**[Project Name]** can:
+**Hudson** can:
 - 💬 Engage in *real-time conversations* using natural speech.  
-- 👁️ Recognize and interpret *visual context*, e.g., “Find the red mug near the window.”  
+- 👁️ Recognize and interpret *visual context*, e.g., “Find the red marker near the window.”  
 - 🚗 Execute *autonomous locomotion and manipulation* tasks (navigate, pick up, deliver).  
 - 🧩 Combine *vision + language reasoning* to translate spoken commands into physical actions.  
 
@@ -53,7 +51,7 @@ By fusing **natural language understanding**, **computer vision**, and **real-wo
 
 ## ❤️ Real-World Applications
 
-In **elderly homes and hospitals**, **[Project Name]** can:
+In **elderly homes and hospitals**, **Hudson** can:
 - 💊 Deliver medication, food, or tools to patients and nurses.  
 - 🗣️ Respond to vocal cues for help, reassurance, or conversation.  
 - 🤝 Assist caregivers by automating repetitive tasks and promoting patient safety.  
@@ -93,7 +91,7 @@ ElevenLabs Voice Output
 | --------------| ----------------------------- | --------------------------------------------- |
 | Gustavo Foz   | AI & Api Integrations         | Gemini Integration, ElevenLabs Integration    |
 | Julien Mutton | Hardware & Robotics           | Arduino Control System,                       |
-| Liang Tao Hu  | Software Engineer & Design    | Raspberry Pi Integration, FastAPI Server      |
+| Liangtao Hu  | Software Engineer & Design    | Raspberry Pi Integration, FastAPI Server      |
 | Zy Tran       | Electronics & Computer Vision | Electronics, System Design, Segmentation      |
 
 ---
@@ -118,7 +116,7 @@ ElevenLabs Voice Output
 - Edge optimization for offline AI processing.
 
 ### 💭 Long-Term
-> Evolve [Project Name] into a general-purpose assistive AI framework — where robots think, act, and genuinely help.
+> Evolve Hudson into a general-purpose assistive AI framework — where robots think, act, and genuinely help in the material world.
 
 ---
 
