@@ -73,13 +73,11 @@ Beyond healthcare, it can also serve in **education, accessibility, and humanita
 
 ---
 
-## 🧩 System Architecture Diagram
+## 🧩 Simplified System Architecture Diagram
 
 ```
 
-Human Speech → Gemini Reasoning → Vision & Context Analysis → Motor Commands → Physical Action
-↓
-ElevenLabs Voice Output
+Human Speech → Gemini Reasoning → Vision & Context Analysis → Motor Commands → Physical Action → ElevenLabs Voice Output
 
 ````
 
@@ -122,5 +120,3 @@ ElevenLabs Voice Output
 
 ### 💙 Thank you, HackPSU!
 > Built with passion, purpose, and a sleepless weekend — dedicated to advancing human-centered robotics and AI for Good!
-
-```
