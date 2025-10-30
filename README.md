@@ -10,7 +10,7 @@
 ![Arduino](https://img.shields.io/badge/Arduino-UNO_R3-blue?style=for-the-badge)
 
 ---
-
+ 
 ## 🌟 Overview
 
 **Hudson** is an **autonomous, conversational, and vision-enabled robotic assistant** designed to enhance elderly care and hospital support through AI-driven reasoning, speech, and perception.  
